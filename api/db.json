@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "Levi Ackerman",
+      "salary": "9000",
+      "department": "Bilişim",
+      "id": 2
+    },
+    {
+      "name": "Eren Jeager",
+      "salary": "11000",
+      "department": "Bilişim",
+      "id": 3
+    },
+    {
+      "name": "İlknur Serçek",
+      "salary": "10000",
+      "department": "Bilişim",
+      "id": 4
+    },
+    {
+      "name": "İlknur Serçek",
+      "salary": "9000",
+      "department": "Muhasabe",
+      "id": 5
+    }
+  ]
+}
